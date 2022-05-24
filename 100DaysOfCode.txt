@@ -35,4 +35,22 @@
   - learned how to reuse JS code using import
   - took notes on top 10 OWASP in 10 mins from Nahahmsec https://www.youtube.com/watch?v=3Zxuhwct9uk&ab_channel=Nahamsec
   - and started the Free CCNA course from https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&ab_channel=Jeremy%27sITLab
-	
+  
+## Day 7
+ 
+  - first attempt at understanding Regular Expression 
+  - finished with the #ES6 lessons in the freeCodeCamp JavaScript course
+  - creating,resolving, and rejecting JavaScriptPromises
+  
+## Day 8
+  
+  - discovered #SpaceVim a modern #Vim distro that comes with lots of useful features out of the box
+  - followed the quick-start guide on http://spacevim.org/use-vim-as-a-javascript-ide/ to config SpaceVim as a JavaScript #IDE
+  
+##Day 9
+  
+  - more Dotfile config in .zshrc 
+  - read lots of SpaceVim / Vim / ZSH docs
+  - did lessons 1 - 15 of the Regular Expressions module on the Free CodeCamp JavaScript course 
+  
+  ---
