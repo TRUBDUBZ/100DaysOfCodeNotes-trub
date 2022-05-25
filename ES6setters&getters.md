@@ -1,11 +1,3 @@
-- finished notes on OWASP top 10 video
-
-    - watch Bret Johnson Show #28 Addictions
-	- only 12 percent of ppl use credit freeze
-	- 80 percent of the population uses the same passwords
-	- 90 percent of attacks use known exploits
-	- solar winds had terrible sec
-	
 # ES6 Setters & Getters 
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block
@@ -34,7 +26,7 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6
     ## Reuse JavaScript Code Using Import
 
 	
-import allows you to choose which parts of a file or module to load. In the previous lesson, the examples exported
+## import allows you to choose which parts of a file or module to load. In the previous lesson, the examples exported
 add from the math_functions.js Here's how you can import it to use in another file:
 
 		import { add } from './math_functions.js';
