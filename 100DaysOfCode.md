@@ -1,4 +1,4 @@
-# #100DaysOfCode 
+#100DaysOfCode 
 
 ## Day 1
 
@@ -47,10 +47,23 @@
   - discovered #SpaceVim a modern #Vim distro that comes with lots of useful features out of the box
   - followed the quick-start guide on http://spacevim.org/use-vim-as-a-javascript-ide/ to config SpaceVim as a JavaScript #IDE
   
-##Day 9
+## Day 9
   
   - more Dotfile config in .zshrc 
   - read lots of SpaceVim / Vim / ZSH docs
   - did lessons 1 - 15 of the Regular Expressions module on the Free CodeCamp JavaScript course 
   
-  ---
+## Day 10 
+
+  - configured SpaceVim
+  - configured .zshrc
+  - read docs for ZSH/Vim/SpaceVim
+  - lessons 15-33 of Regular Expression in JavaScript Course
+  - half the Ruby lessons from https://try.ruby-lang.org
+  
+## Day 11
+
+  - finished the "Debugging" module on (www.FreeCodeCamp.com)["JavaScript Algorithms and Data Structures"]
+  - also finished the "Data Structures" module from the same course
+  - uploaded and organized github repo for the challenge
+  - tba 
