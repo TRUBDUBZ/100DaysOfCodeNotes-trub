@@ -63,7 +63,7 @@
   
 ## Day 11
 
-  - finished the "Debugging" module on (www.FreeCodeCamp.com)["JavaScript Algorithms and Data Structures"]
+  - finished the "Debugging" module on [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org)
   - also finished the "Data Structures" module from the same course
   - uploaded and organized github repo for the challenge
   - tba 
