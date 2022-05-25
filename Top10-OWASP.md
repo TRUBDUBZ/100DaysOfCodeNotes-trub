@@ -47,6 +47,7 @@
 	- session fixations, exposing web tokens, allowing to use previous cookies
 
 ##   8. Software & Data Integrity Failures
+
 	- beware of GitHub repos that allow any people to push code to 
 	- verify updates
 	- want to understand how the target deploys code 
@@ -54,11 +55,13 @@
 	- find a way to upload malicious code to a target
 
 ##   9.  Security Logging & Monitor Failures
+
 	- not an actual attack but the capability for a company to find and locate malicious activity
 	- monitoring traffic 
 	- seeing the attack, detecting and preparing, and ultimately defending
 
 ##   10. Server Side Request Forgery SSRF
+
 	- SSRF is having access to a computer within a network of a target
 	- using the specific target can only be accessed within the targets infrastructure
 	- could be web services, could be local files, could be api, could be cloud infrastructure
