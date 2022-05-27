@@ -67,3 +67,13 @@
   - also finished the "Data Structures" module from the same course
   - uploaded and organized github repo for the challenge
   - tba 
+
+## Day 12
+
+  - "Basic Scripting Algorithms" JavaScript module finished
+  - "Object Oriented Programming" JavaScript module finished also 
+    - [FreeCodeCamp](www.freecodecamp.org)
+  
+## Day 13
+
+  - 
