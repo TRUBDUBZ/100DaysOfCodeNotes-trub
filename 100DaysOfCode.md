@@ -76,4 +76,8 @@
   
 ## Day 13
 
-  - 
+  - finished the"Functional Programming" #JS chapter from #FCC
+  - learned about mutations .map() .filter() 
+  - ways to use functions inside of JavaScript
+  - also learned about currying & partial application
+  - #100DaysOfCode #FreeCodeCamp
