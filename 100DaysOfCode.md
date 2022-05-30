@@ -81,3 +81,19 @@
   - ways to use functions inside of JavaScript
   - also learned about currying & partial application
   - #100DaysOfCode #FreeCodeCamp
+
+## Day 14 
+
+  - finished half of the last module for the #JavaScript course on #FreeCodeCamp 
+  - also researched #onlineAnonymity http://thenewoil.org  
+  - also did some #CTFs on http://ctflearn.com 
+
+## Day 15
+
+  - took a break to enjoy the weekend
+
+## Day 16
+
+  - finished up the last module of the #JavaScript coure on #freeCodeCamp 
+  - researched and configured a new instance of kali-linux Virtual machine
+  - ...
