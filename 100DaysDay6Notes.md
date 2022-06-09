@@ -1,0 +1,59 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2638
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+	- finished notes on OWASP top 10 video\
+\
+	- watch Bret Johnson Show #28 Addictions\
+		- only 12 percent of ppl use credit freeze\
+		- 80 percent of the population uses the same passwords\
+		- 90 percent of attacks use known exploits\
+		- solar winds had terrible sec\
+	\
+ # ES6 Setters & Getters \
+		https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block\
+\
+		- Getter functions are meant to simply return (get) the value of an object's private variable to the user without the user directly accessing the private variable.\
+\
+		- Setter functions are meant to modify (set) the value of an object's private variable based on the value passed into the setter function. This change could involve calculations, or even overwriting the previous value completely.\
+\
+		- Note:\'ef
+\f1 \'97\'85
+\f0 It is convention to precede the name of a private variable with an underscore (_). However, the practice itself does not make a variable private. \
+		- Getters and setters are critical parts of a class/object. They allow you to control their attributes from the outside. They will become more prominent when you get started with the Object-Oriented Programming unit (coming up!). For now, this exercise shows you how to manipulate them 	  	  with ES6. \
+\
+\
+## Create a Module Script                                                                                                                                     \
+	-  in javascript you can import scripts straight into html files by using <script type="module" src=\uc0\u8297 ndex.js"></script>.                       	- imagine a file called math_functions.js that contains several functions related to mathematical operations. One of them is stored in a variable, add, that takes in two numbers and returns their sum. You want to use this function in several different JavaScript files. In order to share it with these other files, you first need to export it. \
+	\
+\
+     const add = (x, y) => \{\
+		return x + y;\
+	\}\
+\
+	export \{ add \};\
+\
+		- When you export a variable or function, you can import it in another file and use it without having to rewrite the code. You can export multiple things by repeating the first example for each thing you want 		to export, or by placing them all in the export statement of the second example, like this:\
+\
+		export \{ add, functions, here \};\
+ \
+    ## Reuse JavaScript Code Using Import \
+	\
+	- import
+\f1  
+\f0 allows you to choose which parts of a file or module to load. In the previous lesson, the examples exported from the math_functions.js file. Here's how you can import it to use in another file:\
+\
+		import \{ add \} from './math_functions.js';\
+	\
+	- You can import more than one item from the file by adding them in the import statement like this:                           \
+		\
+		import \{ add, subtract \} from './math_functions.js\'92;\
+\
+\
+\
+\
+}
