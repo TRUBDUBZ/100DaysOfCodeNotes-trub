@@ -96,4 +96,52 @@
 
   - finished up the last module of the #JavaScript coure on #freeCodeCamp 
   - researched and configured a new instance of kali-linux Virtual machine
-  - ...
+
+## Day 17 
+
+  - earned the 'Javascript Algorithms and Data Structures
+
+## Day 18 
+
+  - finished a few CTFs
+  - learned of subnetting and network topology
+  - github actions
+
+## Day 21
+
+  - discovered and configured Antigen plugin manager
+  - practiced for and while loops
+
+## Day 22 
+
+  - practiced ZSH
+  - made a proxychain
+
+## Day 23
+
+## Day 24 / 25
+
+  - started the next course on http://freecodecamp.org
+	Front End Development Libraries
+  - so far got through half of the #Bootstrap lesson
+  - getting the hang of #Linux file structure
+  - learned about #Binary and #BinaryExecutables
+
+## Day 26 
+
+  - finished 2nd half of #Bootstrap lessons #freeCodeCamp 
+  - also did half of the #jQuery lessons 
+  - learned some #git cli commands (#pull #push) and git config for #zsh
+  - installed #npx #Hardhat to practice #Solidity 
+
+## Day 27
+
+## Day 28 / 29
+
+  - finished the last half of #jQuery lessons on #freeCodeCamp 
+  - started a couple of the #SCSS lessons aswell
+  - learned about #Nodejs 
+
+## Day 30 / 31 
+
+
