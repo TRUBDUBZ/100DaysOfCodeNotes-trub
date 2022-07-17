@@ -1,4 +1,4 @@
-# __Trub's 100 Days Of Code Notes__
+# _Trub's 100 Days Of Code Notes_
 
 ## _My notes and resources git repository for the #100DaysOfCodeChallenge_
 
