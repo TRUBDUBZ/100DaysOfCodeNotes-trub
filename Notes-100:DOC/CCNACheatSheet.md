@@ -5,12 +5,13 @@
 ## 1. Networks
 
 - What is a network?
-  - a network is a connection of telacommunication devics( clients and servers ) (nodes) that are connected and can share resources
+  - a network is a connection of telecommunication devics ( clients and servers ) / ( nodes ) that are connected and can share resources
 
 ## 2. Servers & Clients
 
-- what is a client?  
-  - a client can be a laptop or a pc it could be a mac or iphone or tablet, but a client is a device that accesses a servi   ce made available by a server
+- What is a client?  
+  - a client can be a laptop or a pc it could be a mac or iphone, or tablet, but a client is a device that accesses a service made available by a server
+
 - What is a server?
   - a server is a device that can provide services to a client
   - a server CAN be a client and a server at the same time
@@ -36,8 +37,8 @@
 - What is a router?
   - switches connect end devices within a LAN, switches then go to routers which are what connect LANs to the internet
   - routers have fewer network switches than switches
-  - are used to provide connectivity between LANs
-  - used to send data through the internet
+  - routers are used to provide connectivity between LANs
+  - routers used to send data through the internet
 
 ## 5. Firewalls
 
@@ -48,7 +49,7 @@
   - firewalls must be configured
   - basically a checkpoint that allows or denies different types of connections to devices in a network
   - there are 'next gen firewalls'
-  - firewalls monitor and control network traffic based on rules configed
+  - firewalls monitor and control network traffic based on rules configured
   - can be inside or outside of network
   - next gen firewalls are more modern and have better filtering capabilities
   
