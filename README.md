@@ -1,5 +1,5 @@
 # 100DaysOfCodeNotes-trub
-My resource and notes repo for my first #100DaysOfCodChallenge
+My resource and notes repo for my first #100DaysOfCodeChallenge
 
 📖 The "100 Days of Code" challenge was started back in 2016 by FreeCodeCamp member, Alexander Kallaway. You can read more about the history of the challenge here : The100DaysofCodeChallenge and it's history
 
