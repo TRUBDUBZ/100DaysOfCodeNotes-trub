@@ -1,7 +1,7 @@
 # 100DaysOfCodeNotes-trub
 My resource and notes repo for my first #100DaysOfCodeChallenge
 
-📖 The "100 Days of Code" challenge was started back in 2016 by FreeCodeCamp member, Alexander Kallaway. You can read more about the history of the challenge here : The100DaysofCodeChallenge and it's history
+📖 The "100 Days of Code" challenge was started back in 2016 by FreeCodeCamp member, Alexander Kallaway. You can read more about the history of the challenge here : [The100DaysofCodeChallenge and it's history](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/)
 
 💻 I have been sharing my daily progress along with a short summary of what I have learned each day of the challenge on my Twitter profile using the challenge hashtag (#100DaysOfCode). You can find my progress here www.twitter.com/marcusdiedrich1. At some point I'm hoping to program a twitter bot to automate this process.
 
